@@ -4,7 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "public": "/app/.output/public",
+    "public": "/money-record/.output/public",
     "ignore": [
       "firebase.json",
       "**/.*",
