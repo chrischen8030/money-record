@@ -18,4 +18,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MONEY_RECORD_28219 }}'
           channelId: live
           projectId: money-record-28219
-          path: ./money-record
+          path: "./money-record"
