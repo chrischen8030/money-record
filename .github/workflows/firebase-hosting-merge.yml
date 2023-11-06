@@ -19,3 +19,4 @@ jobs:
           channelId: live
           projectId: money-record-28219
           path: "./money-record"
+          entryPoint: ./money-record
